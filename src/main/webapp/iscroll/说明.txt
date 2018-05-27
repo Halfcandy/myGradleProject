@@ -1,0 +1,4 @@
+由于是刚做完项目，把项目的单独模块扒下来的。所以为了页面的美观依赖的bookBase.css
+在这几个文件中，bookBase.css可以不要，result.json是为了模拟后台加载数据和分页用，在项目中后台地址会将json文件替换
+实际上只需要jquery.min.js,iscroll,informationList.html文件即可。
+其中information中的一些css也可以调整，根据你的项目进行调整。
